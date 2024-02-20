@@ -1,0 +1,87 @@
+
+
+.nav-item{
+    font-family: 'Cabin', Regular;
+    display: inline-block;
+  
+}
+
+#navbarNav{
+    justify-content: end;
+}
+
+.titulo{
+    color: white;
+    font-family: "Lobster";
+    display: block;
+}
+
+
+.container .img_principal{
+    width: 482px;
+    height: 384px;
+}
+
+#titulo_plato{
+    font-family: 'Cabin', Bold;
+    color: #373A3C;
+
+}
+
+
+
+#porciones{
+    float: left;
+    color: #373A3C;
+}
+
+.botones{
+    display: inline-block;
+}
+
+#enviarCorreo{
+    background-color: #FFFFFF;
+    color: black;
+    
+}
+
+#boton{
+    background-color: #FFFFFF;
+    color: black;
+}
+
+footer{
+    background-color: #DC3545;
+    width: 100%;
+    height: 534px;
+    color: white;
+}
+
+.footer2{
+    font-family: "Lobster";
+    width: 100%;
+    height: 127px;
+    background-color: #373A3C;
+    color: white;
+}
+
+.ricomida-footer{
+    font-family: 'Lobster';
+}
+
+.img-carrusel{
+    display: flex;
+    justify-content: center;
+}
+
+.img-carrusel img{
+    width: 233px;
+    height: 170px;
+}
+
+#boton-footer{
+    width: 233px;
+    height: 40px;
+    background: transparent;
+    font-family: 'Cabin';
+}
