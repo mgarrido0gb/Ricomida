@@ -27,5 +27,5 @@ $("#enviarCorreo").click(function(){
 });
 
 $(function(){
-    $('[data-bs-toggle="tooltip"]').tooltip();
+    $('[data-bs-toggle="tooltip"]').tooltip(); 
 })
